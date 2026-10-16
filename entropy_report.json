@@ -1,0 +1,9 @@
+{
+    "file_name": "sample.txt",
+    "sha256": "c438fbcc8b4a5ff9c6ff71de8b2d39d52e1a7c61a87a8180c08a0f6ed9bcda74",
+    "file_size_bytes": 21,
+    "unique_byte_values": 16,
+    "entropy_score": 3.8802,
+    "analysis_note": "Entropy is not especially high.",
+    "warning": "Entropy alone cannot determine whether a file is malicious."
+}
